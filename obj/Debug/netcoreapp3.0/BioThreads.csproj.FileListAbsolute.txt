@@ -1,0 +1,11 @@
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\BioThreads.exe
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\BioThreads.deps.json
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\BioThreads.runtimeconfig.json
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\BioThreads.runtimeconfig.dev.json
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\BioThreads.dll
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\BioThreads.pdb
+C:\Users\adrie\source\repos\BioThreads\BioThreads\obj\Debug\netcoreapp3.0\BioThreads.AssemblyInfoInputs.cache
+C:\Users\adrie\source\repos\BioThreads\BioThreads\obj\Debug\netcoreapp3.0\BioThreads.AssemblyInfo.cs
+C:\Users\adrie\source\repos\BioThreads\BioThreads\obj\Debug\netcoreapp3.0\BioThreads.dll
+C:\Users\adrie\source\repos\BioThreads\BioThreads\obj\Debug\netcoreapp3.0\BioThreads.pdb
+C:\Users\adrie\source\repos\BioThreads\BioThreads\bin\Debug\netcoreapp3.0\Files\intergenidb.csv

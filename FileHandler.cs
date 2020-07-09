@@ -73,14 +73,14 @@ namespace BioThreads
 
             });
 
-
+            
             Console.WriteLine(genes.Count);
         }
 
-        private void Sort(Gene[] genes)
+        private void SortList()
         {
-
 
         }
     }
+
 }
